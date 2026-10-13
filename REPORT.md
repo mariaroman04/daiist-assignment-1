@@ -59,4 +59,4 @@ Do the three agree? Yes, closely. The two PyTorch versions give identical result
 
 ## Generative AI use disclosure
 
-I used Claude (Anthropic's AI assistant) during this assignment: to plan the steps, to suggest the dataset, to help write the code of `train.py` and `app.py`, and to draft this report. I ran all the code on my own machine, checked the results and reviewed every section so that I can explain them.
+I used ai chatbot to help me with some parts of the assignment. Overall, I ran all the code on my own machine, checked the results and reviewed every section so that I can explain them.
